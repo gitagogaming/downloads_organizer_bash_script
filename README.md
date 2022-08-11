@@ -1,4 +1,4 @@
-# downloads_organizer_bash_script
+# Downloads Organizer - Bash Script
 Organize your downloads folder in a jiffy!
 
 
