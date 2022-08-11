@@ -1,5 +1,5 @@
 # Downloads Organizer - Bash Script
-Organize your downloads folder in a jiffy!
+## Organize your downloads folder in a jiffy!
 
 
 I had a project for Linux class and was tasked with making a 'Useful Bash Script' and this is what I came up with.. 
