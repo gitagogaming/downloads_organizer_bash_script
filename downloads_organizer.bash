@@ -82,7 +82,7 @@ if [ $exitstatus = 0 ]; then
     else
 
         ## clearing the console - RIP to your workflow...
-        #clear
+        clear
 
         for item in $CHOICES;do
 
